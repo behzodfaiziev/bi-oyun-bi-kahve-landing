@@ -1,0 +1,20 @@
+# Cloudflare Pages başlık kuralları.
+# Bu dosya out/ içine olduğu gibi kopyalanır; derleme gerektirmez.
+#
+# DİKKAT: aynı yol deseni (/*) için İKİ blok yazılırsa bazı başlıklar
+# sessizce düşüyor. Hepsi tek blokta kalmalı.
+
+/*
+  # Tarayıcının içerik türünü tahmin etmesini engeller (MIME sniffing).
+  X-Content-Type-Options: nosniff
+  # Başka sitelere giderken tam URL sızmasın.
+  Referrer-Policy: strict-origin-when-cross-origin
+  # Sayfa başka sitede çerçeve içine alınamaz (clickjacking).
+  X-Frame-Options: DENY
+  # Sitenin ihtiyacı olmayan cihaz izinleri kapalı.
+  Permissions-Policy: camera=(), microphone=(), geolocation=()
+
+# Next.js'in hash'li varlıkları: içerik değişirse dosya adı da değişir,
+# bu yüzden sonsuza kadar önbelleğe alınabilir.
+/_next/static/*
+  Cache-Control: public, max-age=31536000, immutable

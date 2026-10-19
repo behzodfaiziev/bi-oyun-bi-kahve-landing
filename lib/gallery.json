@@ -1,0 +1,205 @@
+[
+  {
+    "src": "/images/galeri/01.webp",
+    "thumb": "/images/galeri/01-kare.webp",
+    "width": 800,
+    "height": 1200,
+    "alt": "Bi Oyun Bi Kahve tabelası"
+  },
+  {
+    "src": "/images/galeri/02.webp",
+    "thumb": "/images/galeri/02-kare.webp",
+    "width": 800,
+    "height": 1200,
+    "alt": "Kaydıraklı oyun evi ve tırmanma alanı"
+  },
+  {
+    "src": "/images/galeri/03.webp",
+    "thumb": "/images/galeri/03-kare.webp",
+    "width": 800,
+    "height": 1200,
+    "alt": "Oyun alanına genel bakış"
+  },
+  {
+    "src": "/images/galeri/04.webp",
+    "thumb": "/images/galeri/04-kare.webp",
+    "width": 800,
+    "height": 1200,
+    "alt": "Ahşap oyun evleri"
+  },
+  {
+    "src": "/images/galeri/05.webp",
+    "thumb": "/images/galeri/05-kare.webp",
+    "width": 800,
+    "height": 1200,
+    "alt": "Çiftlik evi ve oyuncak masaları"
+  },
+  {
+    "src": "/images/galeri/06.webp",
+    "thumb": "/images/galeri/06-kare.webp",
+    "width": 800,
+    "height": 1200,
+    "alt": "Çiftlik oyun evi"
+  },
+  {
+    "src": "/images/galeri/07.webp",
+    "thumb": "/images/galeri/07-kare.webp",
+    "width": 800,
+    "height": 1200,
+    "alt": "Sallanan ahşap oyuncakta kitap okuyan çocuk"
+  },
+  {
+    "src": "/images/galeri/08.webp",
+    "thumb": "/images/galeri/08-kare.webp",
+    "width": 800,
+    "height": 1200,
+    "alt": "Masada oynayan çocuklar"
+  },
+  {
+    "src": "/images/galeri/09.webp",
+    "thumb": "/images/galeri/09-kare.webp",
+    "width": 800,
+    "height": 1200,
+    "alt": "Kaydırakta oynayan çocuk ve oyun ablası"
+  },
+  {
+    "src": "/images/galeri/10.webp",
+    "thumb": "/images/galeri/10-kare.webp",
+    "width": 800,
+    "height": 1200,
+    "alt": "Tırmanma evinde çocuklar"
+  },
+  {
+    "src": "/images/galeri/11.webp",
+    "thumb": "/images/galeri/11-kare.webp",
+    "width": 800,
+    "height": 1200,
+    "alt": "Masada oynayan çocuk"
+  },
+  {
+    "src": "/images/galeri/12.webp",
+    "thumb": "/images/galeri/12-kare.webp",
+    "width": 800,
+    "height": 1200,
+    "alt": "Oyuncak mutfak"
+  },
+  {
+    "src": "/images/galeri/13.webp",
+    "thumb": "/images/galeri/13-kare.webp",
+    "width": 800,
+    "height": 1200,
+    "alt": "Oyuncak manav tezgâhı"
+  },
+  {
+    "src": "/images/galeri/14.webp",
+    "thumb": "/images/galeri/14-kare.webp",
+    "width": 800,
+    "height": 1200,
+    "alt": "Çocuk masaları ve oyuncaklar"
+  },
+  {
+    "src": "/images/galeri/15.webp",
+    "thumb": "/images/galeri/15-kare.webp",
+    "width": 800,
+    "height": 1200,
+    "alt": "Davul çalan çocuk"
+  },
+  {
+    "src": "/images/galeri/16.webp",
+    "thumb": "/images/galeri/16-kare.webp",
+    "width": 800,
+    "height": 1200,
+    "alt": "Çiçek boyayan çocuk"
+  },
+  {
+    "src": "/images/galeri/17.webp",
+    "thumb": "/images/galeri/17-kare.webp",
+    "width": 800,
+    "height": 1200,
+    "alt": "Ayçiçeği boyama etkinliği"
+  },
+  {
+    "src": "/images/galeri/18.webp",
+    "thumb": "/images/galeri/18-kare.webp",
+    "width": 800,
+    "height": 1200,
+    "alt": "Atölye masasında çocuklar"
+  },
+  {
+    "src": "/images/galeri/19.webp",
+    "thumb": "/images/galeri/19-kare.webp",
+    "width": 800,
+    "height": 1200,
+    "alt": "Pirinç ve ayçiçeği çekirdeğiyle duyusal oyun"
+  },
+  {
+    "src": "/images/galeri/20.webp",
+    "thumb": "/images/galeri/20-kare.webp",
+    "width": 800,
+    "height": 1200,
+    "alt": "Ayçiçeği el işi ve mısır duyusal oyun kutusu"
+  },
+  {
+    "src": "/images/galeri/21.webp",
+    "thumb": "/images/galeri/21-kare.webp",
+    "width": 800,
+    "height": 1200,
+    "alt": "Pamukla el işi yapan çocuk"
+  },
+  {
+    "src": "/images/galeri/22.webp",
+    "thumb": "/images/galeri/22-kare.webp",
+    "width": 800,
+    "height": 1200,
+    "alt": "Elini boyayan çocuk"
+  },
+  {
+    "src": "/images/galeri/23.webp",
+    "thumb": "/images/galeri/23-kare.webp",
+    "width": 800,
+    "height": 1200,
+    "alt": "Ahşap tırmanma üçgeninde çocuklar"
+  },
+  {
+    "src": "/images/galeri/24.webp",
+    "thumb": "/images/galeri/24-kare.webp",
+    "width": 800,
+    "height": 1200,
+    "alt": "Eğitmenle etkinlik yapan çocuk"
+  },
+  {
+    "src": "/images/galeri/25.webp",
+    "thumb": "/images/galeri/25-kare.webp",
+    "width": 800,
+    "height": 1200,
+    "alt": "Kafe salonu"
+  },
+  {
+    "src": "/images/galeri/26.webp",
+    "thumb": "/images/galeri/26-kare.webp",
+    "width": 800,
+    "height": 1200,
+    "alt": "Bahçe etkinliği"
+  },
+  {
+    "src": "/images/galeri/27.webp",
+    "thumb": "/images/galeri/27-kare.webp",
+    "width": 800,
+    "height": 1200,
+    "alt": "Oyun alanında ebeveyn ve çocuklar"
+  },
+  {
+    "src": "/images/galeri/28.webp",
+    "thumb": "/images/galeri/28-kare.webp",
+    "width": 800,
+    "height": 1200,
+    "alt": "Oyuncak tren yolu"
+  },
+  {
+    "src": "/images/galeri/29.webp",
+    "thumb": "/images/galeri/29-kare.webp",
+    "width": 800,
+    "height": 1200,
+    "alt": "Lego masası"
+  }
+]
